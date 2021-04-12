@@ -6,7 +6,7 @@
 
 I currently work at [Indra Company](https://www.indracompany.com/pt-br/)
 
-I'm learning at the moment C#, JavaScript, JQuery, Razor, and .Net Core.
+I'm learning at the moment C#, JavaScript, JQuery, Razor, and Aspnet.net core.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-phillipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phillipe-marinho-928a89a8/)](https://www.linkedin.com/in/phillipe-marinho-928a89a8/)
