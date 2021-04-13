@@ -39,7 +39,7 @@ I'm learning at the moment C#, JavaScript, JQuery, Razor, and Aspnet.net core.
 
 ## GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=phillipelink&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=phillipelink&show_icons=true&count_private=true&show_icons=true&include_all_commits=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipelink&hide=TeX&layout=compact)
 
 
