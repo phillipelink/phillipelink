@@ -27,8 +27,6 @@ I'm learning at the moment C#, JavaScript, JQuery, Razor, and Aspnet.net core.
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat-square&logo=sqlserver)
-
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
